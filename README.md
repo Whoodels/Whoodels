@@ -1,6 +1,8 @@
 # Hi there, I'm Otto Huhtinen! 👋
 
-![Your GIF](https://i.pinimg.com/originals/fc/58/68/fc58680a30c8e4d27c4837a6909578af.gif)
+# ![Your GIF](muistutus itellee lisää linkki)
+# ![Panorama](muistutus itellee lisää linkki)
+
 
 Welcome to my GitHub profile! I'm a 17-year-old tech enthusiast from Finland with a passion for photography. I enjoy building projects using HTML and Java, and I am always eager to learn new things.
 
