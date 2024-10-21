@@ -21,9 +21,10 @@ Welcome to my GitHub profile! I'm a 17-year-old tech enthusiast from Finland wit
 ## 📷 Hobbies
 
 When I'm not coding, you can find me exploring my passion for photography.
+Website Soon
 
 ---
 
 ## 📫 How to Reach Me
 
-- Email: ottohuhtinen@example.com
+- Email: -
