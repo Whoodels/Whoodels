@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Otto Huhtinen! 👋
 
-<!--
-**pohjolanetwork/pohjolanetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a 17-year-old tech enthusiast from Finland with a passion for photography. I enjoy building projects using HTML and Java, and I am always eager to learn new things.
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** HTML, Java
+
+---
+
+## 🌱 Currently Learning
+
+- Expanding my skills in web development and programming.
+  
+---
+
+## 📷 Hobbies
+
+When I'm not coding, you can find me exploring my passion for photography.
+
+---
+
+## 📫 How to Reach Me
+
+- Email: ottohuhtinen@example.com
