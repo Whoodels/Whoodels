@@ -6,8 +6,6 @@
 
 Welcome to my GitHub profile! I'm a 17-year-old tech enthusiast from Finland with a passion for photography. I enjoy building projects using HTML and Java, and I am always eager to learn new things.
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
-
 ---
 
 ## 🛠️ Technologies & Tools
