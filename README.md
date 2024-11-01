@@ -3,9 +3,9 @@
 Hey there! I'm Otto, a 17-year-old from Finland. I spend a lot of my time playing Minecraft (my IGN is **Whoodels**), and I'm currently working on building my own SMP server. When I'm not in-game, I'm studying to be an IT support specialist.
 
 ### About Me
-- 🎓 IT support student at SASKY
+- 🎓 IT support student at **S*** (somewhere in Tampere 😉)
 - 🛠 Learning Java and already familiar with HTML, CSS, and JavaScript
-- 🎮 I love Minecraft and base hunting
+- 🎮 I love Minecraft and enjoy base hunting across different servers
 - ⚙️ Building my own SMP server for the community
 
 ---
@@ -50,8 +50,7 @@ Here's my mod list for the Meteor client on Minecraft 1.21.1:
 - **Sodium** - `sodium-fabric-0.6.0-beta.4+mc1.21.1.jar`
 - **Xaero's World Map** - `XaerosWorldMap_1.39.0_Fabric_1.21.jar`
 - **Xaero's Minimap** - `Xaeros_Minimap_24.6.1_Fabric_1.21.jar`
-- **Zewo2** (disabled) - `zewo2-1.1.0(1).jar.disabled`
 
 ---
 
-Thanks for stopping by! Feel free to check out my code or get in touch.
+Thanks for checking out my profile!
