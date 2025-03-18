@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Otto Huhtinen!
 
-Hey there! I'm Otto, a 17-year-old from Finland. I used to spend a lot of time playing Minecraft (my IGN is **Whoodels**), but these days I don't play as much since I'm diving deeper into photography. I'm also working on building my own SMP server. When I'm not in-game, I'm studying to be an IT support specialist.
+Hey there! I'm Otto, a 17-year-old from Finland. I used to spend a lot of time playing Minecraft (my IGN is **Whoodels**), but these days I don't play as much since I'm diving deeper into photography.
 
 ### About Me
-- 🎓 IT support student at **S*** (somewhere in Tampere 😉)
+- 🎓 IT support student
 - 🛠 Learning Java and already familiar with HTML, CSS, and JavaScript
 - 🎮 I enjoy base hunting in different Minecraft servers
 - 📷 Passionate about photography in my free time
-- ⚙️ Building my own SMP server for the community
 
 ---
 
